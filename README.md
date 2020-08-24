@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋, I'm wangyazhen 🚘!</h2>
 
-<!--
-**wangyazhen/wangyazhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://yazhen.me">
+    <img alt="blog" src="https://img.shields.io/badge/yazhen.me-ed6d2d?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=ed6d2d" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/wangyazhen">
+    <img alt="reach me" src="https://img.shields.io/badge/-reach%20me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
